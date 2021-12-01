@@ -1,2 +1,2 @@
 console.log("Hello World");
-console.log("SBM DEVELOPERS");
+console.log("SBM-DEVELOPERS");
